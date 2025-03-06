@@ -24,7 +24,12 @@ Practical sessions for Data Mining
 * [Supplementary exercises](./examples/README.md)
 
 # Author
-* John Samuel
+* John Samuel (Teacher)
+* Evan Tassel (Student)
+* Cyril Recordon (Student)
+
+# Student Work
+TP 0-3 abd project are completed in the "Français" folder.
 
 ## Archives and Releases
 * [Zenodo](https://doi.org/10.5281/zenodo.4519122)
